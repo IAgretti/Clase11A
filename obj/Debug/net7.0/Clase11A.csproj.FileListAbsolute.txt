@@ -1,0 +1,15 @@
+C:\Proyectos\Clase11A\bin\Debug\net7.0\Clase11A.exe
+C:\Proyectos\Clase11A\bin\Debug\net7.0\Clase11A.deps.json
+C:\Proyectos\Clase11A\bin\Debug\net7.0\Clase11A.runtimeconfig.json
+C:\Proyectos\Clase11A\bin\Debug\net7.0\Clase11A.dll
+C:\Proyectos\Clase11A\bin\Debug\net7.0\Clase11A.pdb
+C:\Proyectos\Clase11A\obj\Debug\net7.0\Clase11A.csproj.AssemblyReference.cache
+C:\Proyectos\Clase11A\obj\Debug\net7.0\Clase11A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Clase11A\obj\Debug\net7.0\Clase11A.AssemblyInfoInputs.cache
+C:\Proyectos\Clase11A\obj\Debug\net7.0\Clase11A.AssemblyInfo.cs
+C:\Proyectos\Clase11A\obj\Debug\net7.0\Clase11A.csproj.CoreCompileInputs.cache
+C:\Proyectos\Clase11A\obj\Debug\net7.0\Clase11A.dll
+C:\Proyectos\Clase11A\obj\Debug\net7.0\refint\Clase11A.dll
+C:\Proyectos\Clase11A\obj\Debug\net7.0\Clase11A.pdb
+C:\Proyectos\Clase11A\obj\Debug\net7.0\Clase11A.genruntimeconfig.cache
+C:\Proyectos\Clase11A\obj\Debug\net7.0\ref\Clase11A.dll
