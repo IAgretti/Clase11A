@@ -1,3 +1,4 @@
+using static System.Console;
 public class Puerta {
     protected int ancho, alto, color;
     protected bool abierta;
@@ -25,11 +26,11 @@ public class Porton: Puerta {
         bloqueada = false;
     }
     public new void MostrarEstado(){
-        Console.WriteLine("Ancho: {0}", ancho);
-        Console.WriteLine("Alto: {0}", alto);
-        Console.WriteLine("Color: {0}", color);
-        Console.WriteLine("Abierta: {0}", abierta);
-        Console.WriteLine("Bloqueada: {0}", bloqueada);
+        WriteLine("Alto: {0}", alto);
+        WriteLine("Ancho: {0}", ancho);
+        WriteLine("Color: {0}", color);
+        WriteLine("Abierta: {0}", abierta);
+        WriteLine("Bloqueada: {0}", bloqueada);
     }
 
 }
